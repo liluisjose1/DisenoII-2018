@@ -12,10 +12,10 @@ Cada computo de los archivos del repositorio, contiene la documentaci√≥n y el c√
 # Pantallas
 
 # Pantalla iClock
-![alt text](/Capturas/iclock.png)
+![alt text](/Capturas/iclock.PNG)
 
 # Pantalla UCP
-![alt text](/Capturas/ucp.png)
+![alt text](/Capturas/ucp.PNG)
 
 # Pantalla Realidad Aumentada - Perritos
 ![alt text](/Capturas/RA.png)
